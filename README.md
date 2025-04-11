@@ -1,4 +1,4 @@
-# EasyCheesy | Pizza ordering app.
+# Easy Cheesy Co. | Pizza ordering app.
 
 <img src="./public/easycheesy.png" style="height: 400px; width: 100%; border-radius: 10px" />
 
@@ -6,7 +6,7 @@
 
 ### Description:
 
-This EasyCheesy pizza ordering app offers a realistic ordering experience, allowing users to browse a pizza menu, customize orders, and complete transactions in a streamlined, interactive interface.
+This Easy Cheesy pizza ordering app offers a realistic ordering experience, allowing users to browse a pizza menu, customize orders, and complete transactions in a streamlined, interactive interface.
 
 ### Functionalities:
 
