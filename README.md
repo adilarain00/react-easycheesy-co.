@@ -2,7 +2,7 @@
 
 <img src="./public/easycheesy.png" style="height: 400px; width: 100%; border-radius: 10px" />
 
-### Live Demo: https://react-pizza-app-manual.vercel.app/
+### Live Demo: https://easycheesy123-app.vercel.app/
 
 ### Description:
 
