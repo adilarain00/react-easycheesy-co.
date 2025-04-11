@@ -1,5 +1,5 @@
-import { useLoaderData } from 'react-router-dom';
 import { getMenu } from '../../services/apiRestaurant';
+import { useLoaderData } from 'react-router-dom';
 import MenuItem from './MenuItem';
 
 function Menu() {

@@ -1,12 +1,12 @@
-# React Pizza App
+# EasyCheesy | Pizza ordering app.
 
-<img src="./public/Fast-React-Pizza.png" style="height: 400px; width: 100%; border-radius: 10px" />
+<img src="./public/easycheesy.png" style="height: 400px; width: 100%; border-radius: 10px" />
 
 ### Live Demo: https://react-pizza-app-manual.vercel.app/
 
 ### Description:
 
-This React pizza ordering app offers a realistic ordering experience, allowing users to browse a pizza menu, customize orders, and complete transactions in a streamlined, interactive interface.
+This EasyCheesy pizza ordering app offers a realistic ordering experience, allowing users to browse a pizza menu, customize orders, and complete transactions in a streamlined, interactive interface.
 
 ### Functionalities:
 

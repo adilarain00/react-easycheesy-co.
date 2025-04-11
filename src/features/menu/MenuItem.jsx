@@ -1,9 +1,9 @@
-import { useDispatch, useSelector } from 'react-redux';
-import Button from '../../ui/Button';
-import DeleteItem from '../cart/DeleteItem';
-import UpdateItemQuantity from '../cart/UpdateItemQuantity';
-import { formatCurrency } from '../../utils/helpers';
 import { addItem, getCurrentQuantityById } from '../cart/cartSlice';
+import UpdateItemQuantity from '../cart/UpdateItemQuantity';
+import { useDispatch, useSelector } from 'react-redux';
+import { formatCurrency } from '../../utils/helpers';
+import DeleteItem from '../cart/DeleteItem';
+import Button from '../../ui/Button';
 
 function MenuItem({ pizza }) {
   const dispatch = useDispatch();
