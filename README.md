@@ -1,13 +1,22 @@
-# Easy Cheesy Co. | Pizza ordering app.
+# 🍕 Easy Cheesy Co. – Pizza Ordering App
 
-<img src="./public/easycheesy.png" style="height: 400px; width: 100%; border-radius: 10px" />
+<!-- Add screenshots or a demo GIF here if available -->
+![Dashboard Screenshot](./public/easycheesy.png)
 
-### Live Demo: https://easycheesy123-app.vercel.app/
+## 📖 Description
 
-### Description:
+**Easy Cheesy Co.** is a dynamic pizza ordering application built with React.js, offering users a realistic and interactive food ordering experience. From browsing a delicious pizza menu to customizing orders and entering delivery details, the app guides users through each step of the ordering process in a smooth and user-friendly interface.
 
-This Easy Cheesy pizza ordering app offers a realistic ordering experience, allowing users to browse a pizza menu, customize orders, and complete transactions in a streamlined, interactive interface.
+Once the order is placed, users receive a unique order ID, which can be used to track their order status—making the app practical, engaging, and efficient for pizza lovers.
 
-### Functionalities:
+## 🧩 Features
+- 🍕 Browse and select pizzas from the menu
+- 🍽 Customize pizza orders (size, toppings, quantity)
+- 📲 Enter user details (name, phone number, and address)
+- 🧾 Generate order ID for tracking
+- 🔍 Search and check the status of orders using order ID
 
-Users start by entering their name, then select pizzas and quantities from the menu. They provide a phone number and address to place the order. The app generates an order ID for tracking, allowing users to search for order status by ID.
+## 🛠 Tech Stack
+- **Frontend:** React, Tailwind CSS, React Router
+- **State Management:** useState, Context API, Redux
+- **Other Tools:** useEffect, conditional rendering, prop drilling 
